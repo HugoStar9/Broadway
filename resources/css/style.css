@@ -1,0 +1,70 @@
+body {
+  font-family: Helvetica;
+}
+
+p {
+  display: block;
+}
+
+.background h1 {
+  font-size: 70px;
+}
+
+h1, h2, h3 {
+  font-weight: bold;
+}
+
+h1 {
+  display: block;
+  font-weight: bold;
+}
+
+.supporting h2 {
+  font-size: 32px;
+}
+
+.nav {
+  font-size: 18px;
+  color: white;
+}
+
+.background {
+  background-color: dimgray;
+  text-align: center;
+  color: white;
+}
+
+div {
+  display: block;
+}
+
+.supporting {
+  text-align: center;
+}
+
+h2 {
+  display: block;
+  font-weight: bold;
+}
+
+.supporting h3 {
+  font-size: 23px;
+}
+
+h3 {
+  display: block;
+  font-weight: bold;
+}
+
+.supporting-item p {
+  font-size: 14px;
+}
+
+.footer {
+  color: white;
+  background-color: dimgray;
+}
+
+.footer p {
+  font-size: 11px;
+}
